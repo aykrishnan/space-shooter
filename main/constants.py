@@ -1,0 +1,7 @@
+ASSETS_PATH = '../assets/'
+BACKGROUND_SPRITE_PATH = ASSETS_PATH + 'background.png'
+PLAYER_SPRITE_PATH = ASSETS_PATH + 'Main Ship - Base - Full health.png'
+LASER_SPRITE_PATH = ASSETS_PATH + 'laser.png'
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
